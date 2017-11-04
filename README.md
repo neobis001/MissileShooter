@@ -1,6 +1,6 @@
 # MissileShooter
 
-My first completed major hobby project as a university sophomore. Main description in missile_shooter\main.cpp. A copy of it from (11/4/17) is at the bottom
+My first completed major hobby project as a university sophomore. Main description in missile_shooter\main.cpp. A copy of it from (11/4/17) is at the end.
 
 -----
 
