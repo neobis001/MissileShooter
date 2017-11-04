@@ -1,0 +1,17 @@
+﻿  callbacks.cpp
+  input_processing.cpp
+  light_tools.cpp
+  main.cpp
+  missile_loading.cpp
+  missile_object.cpp
+  missile_tools.cpp
+  plane_tools.cpp
+  Shader.cpp
+  stb_image_source.cpp
+  texture_loading.cpp
+  glad.c
+  Generating code
+  All 523 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  missile_shooter.vcxproj -> C:\Users\Nicolas\Documents\GitHub\MissileShooter\Release\missile_shooter.exe
+  missile_shooter.vcxproj -> C:\Users\Nicolas\Documents\GitHub\MissileShooter\Release\missile_shooter.pdb (Full PDB)
