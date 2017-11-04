@@ -2,9 +2,13 @@
 
 My first completed major hobby project as a university sophomore. Main description in missile_shooter\main.cpp. Here's a copy of it from (11/4/17)
 
+-----
+
 Other specific notes I'd like to put here:
 
 must have VS 2015 installed to run debug builds for this program directly
+
+-----
 
 /*
 OpenGL Missile Shooter
